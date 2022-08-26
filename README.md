@@ -7,6 +7,6 @@ pgAdmin database creation.
 
 ## Credits
 
-Phillip Friis Petersen
-Christian Casper Hofma
+Phillip Friis Petersen,
+Christian Casper Hofma,
 Peter Hansen
